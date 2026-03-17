@@ -5,6 +5,17 @@ Ce projet est conçu pour tous ceux qui souhaitent **pratiquer et renforcer leur
 
 ---
 
+---
+
+## 🖊️ Auteur
+
+- **Nom :** LO 
+- **Prénom :** Pape 
+- **Email :** pape.lo@estiam.com  
+- **GitHub :** [dspitech](https://github.com/dspitech)  
+
+Vous pouvez me contacter pour toute question, suggestion ou contribution au projet.
+
 ## 🚀 Objectif
 
 L’objectif de ce dépôt est de fournir un **ensemble de laboratoires pratiques**, permettant de :
