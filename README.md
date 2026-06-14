@@ -1,4 +1,4 @@
-# 🔹 Labs DevOps sur AWS
+#  Labs DevOps sur AWS
 
 Bienvenue sur ce dépôt GitHub dédié aux **labs DevOps sur AWS**.  
 Ce projet est conçu pour tous ceux qui souhaitent **pratiquer et renforcer leurs compétences en DevOps et cloud computing** dans un environnement AWS.
@@ -15,7 +15,7 @@ Ce projet est conçu pour tous ceux qui souhaitent **pratiquer et renforcer leur
 
 Vous pouvez me contacter pour toute question, suggestion ou contribution au projet.
 
-## 🚀 Objectif
+##  Objectif
 
 L’objectif de ce dépôt est de fournir un **ensemble de laboratoires pratiques**, permettant de :
 
@@ -26,7 +26,7 @@ L’objectif de ce dépôt est de fournir un **ensemble de laboratoires pratique
 
 ---
 
-## 🧰 Contenu du dépôt
+##  Contenu du dépôt
 
 Chaque lab est organisé de manière indépendante et contient :
 
@@ -37,7 +37,7 @@ Chaque lab est organisé de manière indépendante et contient :
 
 ---
 
-## 📝 Liens Labs pratiques
+##  Liens Labs pratiques
 
 - [Créez votre compte AWS](https://docs.aws.amazon.com/fr_fr/hands-on/latest/setup-environment/module-one.html)
 - [Sécuriser votre compte AWS](https://docs.aws.amazon.com/fr_fr/hands-on/latest/setup-environment/module-two.html)
@@ -59,7 +59,7 @@ Chaque lab est organisé de manière indépendante et contient :
 
 ---
 
-## 📖 Pré-requis
+##  Pré-requis
 
 Pour profiter pleinement de ces labs, il est recommandé d’avoir :
 
@@ -70,7 +70,7 @@ Pour profiter pleinement de ces labs, il est recommandé d’avoir :
 
 ---
 
-## 💡 Contribution
+##  Contribution
 
 Ce dépôt est ouvert à la communauté. Vous pouvez :
 
@@ -82,6 +82,6 @@ Merci de respecter la structure et de documenter vos contributions.
 
 ---
 
-## ⚡ Conclusion
+##  Conclusion
 
 Ce dépôt est un **outil pratique pour apprendre et expérimenter le DevOps sur AWS**, adapté aux débutants comme aux professionnels souhaitant se perfectionner.
